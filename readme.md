@@ -1,5 +1,7 @@
 To run Docker using docker compose :
-    docker-composer up
+    
+    docker-compose up
 
 To run Docker using makefile :
+    
     make dev
